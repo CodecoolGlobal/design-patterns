@@ -1,7 +1,9 @@
 package com.raczkowski.springintro;
 
-import com.raczkowski.springintro.creational.singleton.SomeSpecificConfig;
-import com.raczkowski.springintro.creational.singleton.SomeSpecificConfiguration;
+import com.raczkowski.springintro.structural.adapter.example1.BugattiVeyron;
+import com.raczkowski.springintro.structural.adapter.example1.KPHAdapter;
+import com.raczkowski.springintro.structural.adapter.example1.KPHtoMPHAdapter;
+import com.raczkowski.springintro.structural.adapter.example1.Movable;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -17,19 +19,11 @@ public class Application {
     @Bean
     public CommandLineRunner runner() {
         return (args) -> {
-            SomeSpecificConfiguration configuration1 = SomeSpecificConfiguration.getInstance();
-            SomeSpecificConfiguration configuration2 = SomeSpecificConfiguration.getInstance();
+            Movable bugattiVeyron = new BugattiVeyron();
 
-            System.out.println(configuration1 == configuration2);
+            KPHAdapter kphAdapter = new KPHtoMPHAdapter(bugattiVeyron);
 
-            SomeSpecificConfig config1 = SomeSpecificConfig.CONFIG;
-            SomeSpecificConfig config2 = SomeSpecificConfig.CONFIG;
-
-            System.out.println(config1 == config2);
-
-
-
-
+            System.out.println(kphAdapter.getKPH());
         };
     }
 }
