@@ -1,4 +1,5 @@
 package com.raczkowski.springintro.creational.factory;
 
-public class Triangle extends Figure {
+public interface Connection {
+    void connect();
 }
