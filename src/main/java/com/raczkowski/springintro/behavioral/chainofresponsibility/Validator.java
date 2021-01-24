@@ -8,6 +8,6 @@ public abstract class Validator {
         this.next = next;
     }
 
-    abstract boolean validate(String password);
+    abstract boolean validate(Form form);
 
 }

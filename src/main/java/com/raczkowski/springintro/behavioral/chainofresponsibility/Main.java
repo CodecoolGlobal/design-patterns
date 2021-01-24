@@ -1,12 +1,14 @@
 package com.raczkowski.springintro.behavioral.chainofresponsibility;
 
+import java.util.Date;
+
 public class Main {
     public static void main(String[] args) {
-        Validator validator = new LengthValidator(new ContainNumberValidator(null));
+        Validator validator = new NameLengthValidator(new PhoneNumberValidator(null));
 
-        String password = "nn";
-        boolean result = validator.validate(password);
+        Form form = new Form("Przemek", "Raczkowski", new Date(), "+48577266321");
+        boolean result = validator.validate(form);
 
-        System.out.println("Password: " + password + " validation has " + (result ? "passed" : "failed"));
+        System.out.println(result);
     }
 }
