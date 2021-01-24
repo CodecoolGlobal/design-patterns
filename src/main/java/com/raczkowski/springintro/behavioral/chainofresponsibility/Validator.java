@@ -8,6 +8,6 @@ public abstract class Validator {
         this.next = next;
     }
 
-    abstract boolean validate(Form form);
+    abstract ValidationResult validate(Form form, ValidationResult validationResult);
 
 }

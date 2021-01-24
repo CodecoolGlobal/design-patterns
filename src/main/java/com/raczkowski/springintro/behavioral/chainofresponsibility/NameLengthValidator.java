@@ -1,5 +1,7 @@
 package com.raczkowski.springintro.behavioral.chainofresponsibility;
 
+import static com.raczkowski.springintro.behavioral.chainofresponsibility.ValidationFailureCause.NAME_INCORRECT_LENGTH;
+
 public class NameLengthValidator extends Validator {
     private static final int MIN = 2;
     private static final int MAX = 25;
@@ -9,15 +11,14 @@ public class NameLengthValidator extends Validator {
     }
 
     @Override
-    boolean validate(Form form) {
-        String name = form.getName();
-        String surname = form.getSurname();
-
-        if (isInRange(name) && isInRange(surname)) {
-            return next.validate(form);
+    public ValidationResult validate(Form form, ValidationResult validationResult) {
+        if (isInRange(form.getName()) && isInRange(form.getSurname())) {
+            return next.validate(form, validationResult);
         }
 
-        return false;
+        validationResult.addFailureCause(NAME_INCORRECT_LENGTH);
+
+        return next.validate(form, validationResult);
     }
 
     private boolean isInRange(String name) {
