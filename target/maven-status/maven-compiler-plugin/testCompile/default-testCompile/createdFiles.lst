@@ -1,0 +1,4 @@
+com/raczkowski/springintro/repository/UserRepositoryTest.class
+com/raczkowski/springintro/service/UserServiceTest.class
+com/raczkowski/springintro/controller/UserControllerIntegrationTestConfiguration.class
+com/raczkowski/springintro/controller/UserControllerIntegrationTest.class

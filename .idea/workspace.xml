@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="852849a6-4a01-4cbc-af38-0fd70fe06a24" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="DB: database" type="2aa06773:H2ImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="DB: database" type="2aa06773:H2ImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="DB: database" type="2aa06773:H2ImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="PUBLIC: schema" type="7f85d983:H2ImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="DB: database" type="2aa06773:H2ImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="PUBLIC: schema" type="7f85d983:H2ImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="b8dd72b2-9995-4649-8519-799316dbe453" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.6.3-bin/1iopthnavndlasol9gbrbg6bf2/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1h6SlcsANcpMDzLKKP64OA6HMIX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="h2" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last.edited.regexp" value="+48577266321" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../design-patterns-excercises/pom.xml" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.raczkowski.springintro.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.raczkowski.springintro" />
+      <recent name="com.raczkowski.springintro.controller" />
+      <recent name="com.raczkowski.springintro.repository" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/com/raczkowski/springintro/repository" />
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/docker" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/raczkowski/springintro" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.raczkowski.springintro.service" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.raczkowski.springintro.functional" />
+      <recent name="com.raczkowski.springintro.structural.adapter.example2" />
+      <recent name="com.raczkowski.springintro.exception" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raczkowski.springintro.structural.decorator.Main" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raczkowski.springintro.structural.decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raczkowski.springintro.structural.proxy.Main" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raczkowski.springintro.structural.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raczkowski.springintro.behavioral.strategy.Main" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raczkowski.springintro.behavioral.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raczkowski.springintro.behavioral.chainofresponsibility.Main" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raczkowski.springintro.behavioral.chainofresponsibility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raczkowski.springintro.backdoor.controller.Mian" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raczkowski.springintro.backdoor.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserControllerIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raczkowski.springintro.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.raczkowski.springintro.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.raczkowski.springintro.controller.UserControllerIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="design-patterns" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.raczkowski.springintro.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Mian" />
+        <item itemvalue="JUnit.UserControllerIntegrationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="852849a6-4a01-4cbc-af38-0fd70fe06a24" name="Default Changelist" comment="" />
+      <created>1599330201400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599330201400</updated>
+      <workItem from="1600278084535" duration="6980000" />
+      <workItem from="1600294170646" duration="2765000" />
+      <workItem from="1600326425679" duration="182000" />
+      <workItem from="1600326675099" duration="136000" />
+      <workItem from="1600366126019" duration="2614000" />
+      <workItem from="1600452238640" duration="1810000" />
+      <workItem from="1600886236697" duration="1944000" />
+      <workItem from="1601583891811" duration="1601000" />
+      <workItem from="1601630214113" duration="5033000" />
+      <workItem from="1601640287230" duration="4955000" />
+      <workItem from="1601661951314" duration="4268000" />
+      <workItem from="1601667772135" duration="9743000" />
+      <workItem from="1601814771424" duration="1188000" />
+      <workItem from="1602954089420" duration="34626000" />
+      <workItem from="1603390968398" duration="1812000" />
+      <workItem from="1604007828302" duration="1320000" />
+      <workItem from="1604692295526" duration="16896000" />
+      <workItem from="1605817132177" duration="44309000" />
+      <workItem from="1606129310253" duration="1419000" />
+      <workItem from="1606768015338" duration="7112000" />
+      <workItem from="1606846996003" duration="11720000" />
+      <workItem from="1606934675882" duration="657000" />
+      <workItem from="1606936599974" duration="24000" />
+      <workItem from="1606936911909" duration="405000" />
+      <workItem from="1607173252031" duration="3846000" />
+      <workItem from="1607197925920" duration="9974000" />
+      <workItem from="1610195675841" duration="634000" />
+      <workItem from="1610218942028" duration="16267000" />
+      <workItem from="1610351404929" duration="291000" />
+      <workItem from="1611476253942" duration="48000" />
+      <workItem from="1611480023304" duration="2991000" />
+      <workItem from="1611490766309" duration="10676000" />
+      <workItem from="1611561376723" duration="71000" />
+      <workItem from="1612387234754" duration="4559000" />
+      <workItem from="1612563020254" duration="8352000" />
+      <workItem from="1612706142516" duration="2569000" />
+    </task>
+    <task id="LOCAL-00001" summary="Updating html">
+      <created>1600283029740</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600283029740</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding delete endpoint">
+      <created>1600286296669</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600286296669</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updating controller">
+      <created>1600286930139</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600286930139</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Dockerfile added">
+      <created>1600295892153</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600295892153</updated>
+    </task>
+    <task id="LOCAL-00005" summary="changing java version to 8">
+      <created>1600297007469</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600297007469</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Cookies and session added">
+      <created>1601645683706</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601645683706</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Welcome text added">
+      <created>1601664709184</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601664709184</updated>
+    </task>
+    <task id="LOCAL-00008" summary="LogoutController">
+      <created>1601667260069</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601667260069</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Description added">
+      <created>1601672183190</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1601672183190</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Description added part 2">
+      <created>1601672378622</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601672378622</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Refactoring before writing tests">
+      <created>1602955229072</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1602955229072</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Refactoring before writing tests">
+      <created>1602957925742</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1602957925742</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Refactoring before writing tests">
+      <created>1602957964556</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1602957964556</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Adding tests for Service">
+      <created>1602966238680</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602966238680</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Adding new tests base">
+      <created>1602967967923</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1602967967923</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Controller tests added">
+      <created>1602972383361</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1602972383361</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Jpa basic tests added">
+      <created>1602974535446</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1602974535446</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Jpa additional tests added">
+      <created>1602977047067</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1602977047067</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Code refactoring">
+      <created>1602977220251</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1602977220251</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Code refactoring">
+      <created>1603088081392</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1603088081392</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Adding backdoor REST API">
+      <created>1605824788364</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1605824788364</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Adding backdoor REST API part 2">
+      <created>1605828586004</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1605828586004</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Adding backdoor REST API part 3">
+      <created>1605829022465</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1605829022465</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Adding backdoor REST API part 4">
+      <created>1605830305559</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1605830305559</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Adding backdoor REST API part 5">
+      <created>1605831866708</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1605831866708</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Adding backdoor REST API part 6">
+      <created>1605868853931</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1605868853931</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Adding backdoor REST API part 7">
+      <created>1605905021100</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1605905021100</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Adding backdoor REST API part 8">
+      <created>1605909936916</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1605909936916</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Adding backdoor REST API part 9">
+      <created>1606030410216</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1606030410216</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Adding external api communication">
+      <created>1606775110674</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1606775110675</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Adding external api communication sync example">
+      <created>1606850925444</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1606850925444</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Adding external api communication sync example part 2">
+      <created>1606862231402</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1606862231402</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Adding external api communication sync example part 3">
+      <created>1606864709770</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1606864709770</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Initial commit">
+      <created>1607198225383</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1607198225383</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Initial commit 2">
+      <created>1607198293770</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1607198293770</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Initial commit">
+      <created>1607201833577</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1607201833577</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Initial commit">
+      <created>1610292194300</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1610292194300</updated>
+    </task>
+    <task id="LOCAL-00038" summary="CoR pattern">
+      <created>1611493213773</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1611493213773</updated>
+    </task>
+    <task id="LOCAL-00039" summary="CoR pattern 2">
+      <created>1611496714350</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1611496714350</updated>
+    </task>
+    <task id="LOCAL-00040" summary="CoR pattern 2">
+      <created>1612391171373</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1612391171373</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Decorator added">
+      <created>1612618261645</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1612618261645</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Refactoring before writing tests" />
+    <MESSAGE value="Adding tests for Service" />
+    <MESSAGE value="Adding new tests base" />
+    <MESSAGE value="Controller tests added" />
+    <MESSAGE value="Jpa basic tests added" />
+    <MESSAGE value="Jpa additional tests added" />
+    <MESSAGE value="Code refactoring" />
+    <MESSAGE value="Adding backdoor REST API" />
+    <MESSAGE value="Adding backdoor REST API part 2" />
+    <MESSAGE value="Adding backdoor REST API part 3" />
+    <MESSAGE value="Adding backdoor REST API part 4" />
+    <MESSAGE value="Adding backdoor REST API part 5" />
+    <MESSAGE value="Adding backdoor REST API part 6" />
+    <MESSAGE value="Adding backdoor REST API part 7" />
+    <MESSAGE value="Adding backdoor REST API part 8" />
+    <MESSAGE value="Adding backdoor REST API part 9" />
+    <MESSAGE value="Adding external api communication" />
+    <MESSAGE value="Adding external api communication sync example" />
+    <MESSAGE value="Adding external api communication sync example part 2" />
+    <MESSAGE value="Adding external api communication sync example part 3" />
+    <MESSAGE value="Initial commit 2" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="CoR pattern" />
+    <MESSAGE value="CoR pattern 2" />
+    <MESSAGE value="Decorator added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Decorator added" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3008" y="259" width="646" height="598" key="#com.intellij.ide.util.MemberChooser" timestamp="1612619905808">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state x="3008" y="259" width="646" height="598" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1612619905808" />
+    <state x="2190" y="169" width="719" height="749" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1611480248889">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2190" y="169" width="719" height="749" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1611480248889" />
+    <state x="2920" y="288" width="549" height="513" key="#xdebugger.evaluate" timestamp="1611491042502">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2920" y="288" width="549" height="513" key="#xdebugger.evaluate/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1611491042502" />
+    <state x="3269" y="78" width="1032" height="912" key="CommitChangelistDialog2" timestamp="1612618261552">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state x="3269" y="78" width="1032" height="912" key="CommitChangelistDialog2/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1612618261552" />
+    <state x="3002" y="100" width="1378" height="880" key="DiffContextDialog" timestamp="1607189523278">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state x="3002" y="100" width="1378" height="880" key="DiffContextDialog/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1607189523278" />
+    <state x="2961" y="298" key="FileChooserDialogImpl" timestamp="1612706188398">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2961" y="298" key="FileChooserDialogImpl/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1612706188398" />
+    <state width="1547" height="235" key="GridCell.Tab.0.bottom" timestamp="1612620896719">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1547" height="235" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1612620896719" />
+    <state width="1547" height="235" key="GridCell.Tab.0.center" timestamp="1612620896719">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1547" height="235" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1612620896719" />
+    <state width="1547" height="235" key="GridCell.Tab.0.left" timestamp="1612620896718">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1547" height="235" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1612620896718" />
+    <state width="1547" height="235" key="GridCell.Tab.0.right" timestamp="1612620896719">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1547" height="235" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1612620896719" />
+    <state width="1547" height="235" key="GridCell.Tab.1.bottom" timestamp="1612620896719">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1547" height="235" key="GridCell.Tab.1.bottom/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1612620896719" />
+    <state width="1547" height="235" key="GridCell.Tab.1.center" timestamp="1612620896719">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1547" height="235" key="GridCell.Tab.1.center/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1612620896719" />
+    <state width="1547" height="235" key="GridCell.Tab.1.left" timestamp="1612620896719">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1547" height="235" key="GridCell.Tab.1.left/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1612620896719" />
+    <state width="1547" height="235" key="GridCell.Tab.1.right" timestamp="1612620896719">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1547" height="235" key="GridCell.Tab.1.right/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1612620896719" />
+    <state x="3296" y="223" width="657" height="642" key="RollbackChangesDialog" timestamp="1612711309247">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state x="3296" y="223" width="657" height="642" key="RollbackChangesDialog/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1612711309247" />
+    <state x="2726" y="175" width="947" height="739" key="SettingsEditor" timestamp="1610229308492">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2726" y="175" width="947" height="739" key="SettingsEditor/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1610229308492" />
+    <state x="2795" y="276" width="800" height="537" key="Vcs.Push.Dialog.v2" timestamp="1612620276905">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2795" y="276" width="800" height="537" key="Vcs.Push.Dialog.v2/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1612620276905" />
+    <state x="3450" y="455" width="481" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612387295520">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state x="3450" y="455" width="481" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1612387295520" />
+    <state x="2140" y="360" width="724" height="369" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1612389702802">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2140" y="360" width="724" height="369" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1612389702802" />
+    <state x="2884" y="279" width="631" height="522" key="find.popup" timestamp="1606942309175">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2884" y="279" width="631" height="522" key="find.popup/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1606942309175" />
+    <state x="3354" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1610220420570">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state x="3354" y="239" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1610220420570" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
