@@ -1,0 +1,1 @@
+1. More on design patterns - https://refactoring.guru/design-patterns
